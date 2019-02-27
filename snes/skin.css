@@ -185,10 +185,10 @@ start and select buttons. */
     top: 71px;
     right: 0px;
 }
-.custom .x{
+.custom .y{
     top: 71px;
 }
-.custom .y{
+.custom .x{
     left: 92px;
 }
 /* Analog sticks follow the same principles as the triggers in terms of positioning
